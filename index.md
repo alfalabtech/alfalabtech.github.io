@@ -8,7 +8,7 @@ You can create as many projects as you want. You can use all standard CRUD opera
 
 ## Test Case Manager
 Test Manager allows you to create as many tests as you want. All Test Cases are stored in a smart table, that supports searching/filtering by any attribute.
-![](.images/test-case-manager.png)
+![](images/test-case-manager.png)
 
 ## Test Case properties (attributes)
 Each Test Case has the following properties:
@@ -19,14 +19,14 @@ Each Test Case has the following properties:
 - Priority
 - Type
 - Steps & Expected Results
-![](.images/test-case-editor.png)
+![](images/test-case-editor.png)
 
 ## Understand your Test Cases
 Each time you update a Test Case, the system stores its metadata in centralised storage. This means you can have a real-time visualisation of your test plan/project.
-![](.images/test-case-plots.png)
+![](images/test-case-plots.png)
 
 ## Test Runner
 You can have many active Test Runs in parallel. This is how the Test Runner looks like:
-![](.images/test-runner.png)
+![](images/test-runner.png)
 
 Link to the application is here: [alfalab.tech — Free online Test Case Management System](https://alfalab.tech/)
